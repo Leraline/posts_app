@@ -3,7 +3,6 @@ import MyButton from './UI/button/MyButton';
 
 const PostItem = (props) => {
 
-
     return (
         <div className="App">
 			<div className="post">
